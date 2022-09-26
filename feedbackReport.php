@@ -55,7 +55,7 @@
           <span class="icon-bar"></span>
         </button>
         <div class="navbar-header">
-          <a href="index.html" class="navbar-brand headerFont text-lg"><strong>eVoting</strong></a>
+          <a href="index.html" class="navbar-brand headerFont text-lg"><strong>votaton</strong></a>
         </div>
 
         <div class="collapse navbar-collapse" id="example-nav-collapse">
